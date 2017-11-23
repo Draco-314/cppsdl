@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1511204579 source:/home/jelemy/cpprojects/Sandbox/main.cpp
+	"Main.h"
+
+1511376427 /home/jelemy/cpprojects/Sandbox/Main.h
+	<iostream>
+	<SDL2/SDL.h>
+	<Image.h>
+
+1511027115 /home/jelemy/cpprojects/Sandbox/include/Button.h
+	<SDL2/SDL.h>
+
+1511026351 source:/home/jelemy/cpprojects/Sandbox/src/Button.cpp
+	"Button.h"
+
+1511377406 /home/jelemy/cpprojects/Sandbox/include/Image.h
+	<SDL2/SDL.h>
+
+1511186619 source:/home/jelemy/cpprojects/Sandbox/src/Image.cpp
+	"Image.h"
+
